@@ -19,3 +19,4 @@ algorix.co, 54616, RESELLER
 google.com, pub-7410793424605105, RESELLER
 telaria.com, rwd19-2201485, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-2201485, RESELLER, 1a4e959a1b50034a
+google.com, pub-8626088622286787, DIRECT, f08c47fec0942fa0
